@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "OneBlock758.aternos.me",
-    "port": 27279,
+    "port": 23568,
     "version": "1.20.1",
     "try-creative": false
   },
