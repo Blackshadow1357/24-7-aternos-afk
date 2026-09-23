@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OneBlock758.aternos.me",
-    "port": 23568,
+    "ip": "Hithotsmp1.aternos.me",
+    "port": 31102,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -82,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
